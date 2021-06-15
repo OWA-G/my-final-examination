@@ -1,0 +1,18 @@
+                    THE IMMPORTANCE OF GIT AND GITHUB
+                    
+GIT - is its branching capabilities. Unlike centralized version control systems.
+    - does not rely on the central server; that is why, there is no need to interact 
+      with the remote server for every operation.
+    - the chances of losing data are very rare when there are multiple copies of it.
+    - uses a common cryptographic hash function called secure hash function (SHA1), 
+      to name and identify objects within its database.
+    - is also a free and open-source distributed version control system.
+    - it was created by Linus Torvalds in 2005.
+
+GITHUB - is a cloud-based hosting service for Git repositories. 
+       - is a tool build on the top of Git. In simple terms.
+       - it provides a graphical interface that interacts with Git repositories. 
+       - it makes it easier for the individual and team to use Git for version control. 
+       - provide collaboration features such as task management, bug tracking and feature 
+         request for every project. 
+       - can be use through a web portal or desktop GUI or Git shell.
