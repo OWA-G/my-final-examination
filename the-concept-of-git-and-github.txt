@@ -1,0 +1,11 @@
+                    THE CONCEPT OF GIT AND GITHUB
+
+GIT - is a type of version control system (VCS) that makes it easier to track changes to files.
+    - For example, when you edit a file, git can help you determine exactly what changed, who changed it, 
+      and why.
+
+
+GITHUB - is a website and cloud-based service that helps developers store and manage their code, as well 
+         as track and control changes to their code.
+       - is a lightweight, branch-based workflow that supports teams and projects where deployments are 
+         made regularly. 
